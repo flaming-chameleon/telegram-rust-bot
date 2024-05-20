@@ -1,7 +1,3 @@
-Certainly! Below is a professional README for your GitHub repository, including an embedded YouTube video with an image on top. 
-
-### README.md
-
 # Telegram Rust Bot
 
 [![Watch the video](https://img.youtube.com/vi/geXoNSL4OqM/0.jpg)](https://youtu.be/geXoNSL4OqM)
