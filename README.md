@@ -2,7 +2,9 @@
 
 [![Watch the video](https://img.youtube.com/vi/geXoNSL4OqM/0.jpg)](https://youtu.be/geXoNSL4OqM)
 
-YOutube video: https://youtu.be/geXoNSL4OqM
+[Here is my Youtube video](https://youtu.be/geXoNSL4OqM): https://youtu.be/geXoNSL4OqM
+
+
 
 Welcome to the **Telegram Rust Bot** project! This is a simple yet powerful Telegram bot written in Rust using the [`teloxide`](https://github.com/teloxide/teloxide) library. The bot is designed to interact with users and perform various tasks based on the messages it receives.
 
